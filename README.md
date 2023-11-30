@@ -6,7 +6,7 @@ This is the official homepage for all the apps I've created. You can find detail
 
 ProxMobo is an app for monitoring and managing your Proxmox servers directly from your mobile device. 
 
-[Download ProxMobo](https://apps.apple.com/us/app/proxmobo/id6447794447)
+[Download ProxMobo](https://apps.apple.com/us/app/proxmobo/id6447794447) or read its [docs](https://proxmobo.app)
 
 ## Uptime Kuma Manager 
 
