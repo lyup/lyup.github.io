@@ -4,9 +4,9 @@ This is the official homepage for all the apps I've created. You can find detail
 
 ## ProxMobo - Proxmox Monitor & Management 
 
-ProxMobo is an app for monitoring and managing your Proxmox servers directly from your mobile device. Featuring Advanced [VNC](https://www.proxmobo.app/docs/tutorial-premium/vnc)/[Terminal Access](https://www.proxmobo.app/docs/tutorial-premium/terminal) and Real-Time [Temperature Monitoring](https://www.proxmobo.app/docs/tutorial-basics/temperature).
+ProxMobo is an app for monitoring and managing your Proxmox servers directly from your mobile device. Featuring Advanced [VNC](https://proxmobo.app/docs/tutorial-premium/vnc)/[Terminal Access](https://proxmobo.app/docs/tutorial-premium/terminal) and Real-Time [Temperature Monitoring](https://proxmobo.app/docs/tutorial-basics/temperature).
 
-[Download ProxMobo](https://apps.apple.com/us/app/proxmobo/id6447794447) or read its [docs](https://proxmobo.app). [Learn more](https://www.proxmobo.app/blog) about how to setup [Ubuntu](https://www.proxmobo.app/blog/set-up-serial-port-on-ubuntu) or [Fedora](https://www.proxmobo.app/blog/set-up-serial-port-on-fedora) properly for Serial Port Access 
+[Download ProxMobo](https://apps.apple.com/us/app/proxmobo/id6447794447) or read its [docs](https://proxmobo.app). [Learn more](https://proxmobo.app/blog) about how to setup [Ubuntu](https://proxmobo.app/blog/set-up-serial-port-on-ubuntu) or [Fedora](https://proxmobo.app/blog/set-up-serial-port-on-fedora) properly for Serial Port Access 
 
 ## Uptime Kuma Manager 
 
